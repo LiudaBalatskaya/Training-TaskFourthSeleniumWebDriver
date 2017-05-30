@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TaskFourthSeleniumWebDriver.iml" filepath="$PROJECT_DIR$/TaskFourthSeleniumWebDriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdvancedLocators.iml" filepath="$PROJECT_DIR$/AdvancedLocators.iml" />
     </modules>
   </component>
 </project>
